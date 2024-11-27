@@ -61,7 +61,7 @@ Fazemos todos os projetos apenas com nosso ódio pelo capitalismo, dinheiro do n
 
 <hr>
 <div align="right"> 
-  <a href="https://github.com/capybara-fepe/.github/edit/main/profile/CREDITS.md" color="#fff" >créditos</a>
+  <a href="https://github.com/capybara-fepe/.github/blob/main/profile/CREDITS.md" color="#fff" >créditos</a>
 </div>
 
 
