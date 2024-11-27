@@ -1,5 +1,5 @@
 <hr>
-<img src="./logo.svg" alt="Capybara FePe's Logo" width="300px"/>
+<img src="https://raw.githubusercontent.com/capybara-fepe/.github/e4e6e2d24c0f94a62f70885ce79965018482b25f/profile/logo.svg" alt="Capybara FePe's Logo" width="300px"/>
 
 Olá! Bem-vinde! :wave:
 
