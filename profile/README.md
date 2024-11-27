@@ -1,3 +1,4 @@
+<hr>
 <img src="./logo.svg" alt="Capybara FePe's Logo" width="300px"/>
 
 Olá! Bem-vinde! :wave:
