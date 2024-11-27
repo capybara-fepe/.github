@@ -7,7 +7,7 @@ Somos uma organização de trabalhadores de TI que buscam desenvolver ferramenta
 
 <br>
 
-<img src="./equipe.svg" alt="A equipe" />
+<img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/equipe.svg" alt="A equipe" />
 <table>
   <tr>
     <th width="220px" align="center">
@@ -36,22 +36,22 @@ Somos uma organização de trabalhadores de TI que buscam desenvolver ferramenta
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/fernanda-shinoda/" target="_blank">
-        <img src="./linkedin.svg" alt="linkedin logo" width="24px" />
+        <img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/linkedin.svg" alt="linkedin logo" width="24px" />
       </a>
     </td >
     <td align="center" >
       <a href="https://www.linkedin.com/in/pedro-heck/" target="_blank">
-        <img src="./linkedin.svg" alt="linkedin logo" width="24px" />
+        <img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/linkedin.svg" alt="linkedin logo" width="24px" />
       </a>
       <a href="https://www.instagram.com/pe_heck/" target="_blank">
-        <img src="./instagram.svg" alt="instagram logo" width="24px" />
+        <img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/instagram.svg" alt="instagram logo" width="24px" />
       </a>
     </td>
   </tr>
 </table>
 <br>
 <hr>
-<img src="./apoio.svg" alt="apoie os autores" />
+<img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/apoio.svg" alt="apoie os autores" />
 Fazemos todos os projetos apenas com nosso ódio pelo capitalismo, dinheiro do nosso bolso e nosso pouco tempo livre. Após conferir nosso trabalho, caso tenha gostado e queira nos incetivar com um cafézinho, aceitamos :coffee:
 
 <div align="center">
