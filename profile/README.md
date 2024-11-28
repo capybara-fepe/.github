@@ -10,11 +10,11 @@ Somos uma organização de trabalhadores de TI que buscam desenvolver ferramenta
 <img src="https://raw.githubusercontent.com/capybara-fepe/.github/0f6ba35e1abdb6bb217a233aab171c6461b26279/profile/equipe.svg" alt="A equipe" />
 <table>
   <tr>
-    <th width="200px" align="center">
-        <img class="avatar" src="https://avatars.githubusercontent.com/u/45886482?v=4" width="200px"/>
+    <th width="190px" align="center">
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/45886482?v=4" width="190px"/>
     </th>
-    <th width="200px" align="center">
-        <img class="avatar" src="https://avatars.githubusercontent.com/u/68083697?v=4" width="200px"/>
+    <th width="190px" align="center">
+        <img class="avatar" src="https://avatars.githubusercontent.com/u/68083697?v=4" width="190px"/>
     </th>
   </tr>
   <tr>
